@@ -11,6 +11,8 @@ set -ouex pipefail
 
 # this installs a package from fedora repos
 dnf5 install -y emacs
+dnf5 install -y libvterm
+dnf5 install -y zathura
 
 # Use a COPR Example:
 #
@@ -21,4 +23,4 @@ dnf5 install -y emacs
 
 #### Example for enabling a System Unit File
 
-systemctl enable podman.socket
+# systemctl enable podman.socket
