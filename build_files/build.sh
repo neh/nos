@@ -14,7 +14,14 @@ dnf5 install -y emacs \
      libvterm \
      pandoc \
      zathura \
-     zathura-pdf-mupdf
+     zathura-pdf-mupdf \
+     niri \
+     waybar \
+     swaylock \
+     swayidle \
+     mako \
+     swaybg \
+     fuzzel
 
 # Use a COPR Example:
 #
