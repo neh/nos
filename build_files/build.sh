@@ -22,6 +22,7 @@ dnf5 install -y emacs \
      mako \
      swaybg \
      brightnessctl \
+     wlsunset \
      fuzzel
 
 # Use a COPR Example:
