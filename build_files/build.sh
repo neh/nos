@@ -23,8 +23,9 @@ dnf5 install -y emacs \
      swaybg \
      brightnessctl \
      wlsunset \
-     fuzzel
-
+     fuzzel \
+     wob \
+     enchant2-devel
 # Use a COPR Example:
 #
 # dnf5 -y copr enable ublue-os/staging
