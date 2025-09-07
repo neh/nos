@@ -36,3 +36,5 @@ dnf5 install -y emacs \
 #### Example for enabling a System Unit File
 
 # systemctl enable podman.socket
+
+make install
