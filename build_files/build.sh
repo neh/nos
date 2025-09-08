@@ -37,4 +37,6 @@ dnf5 install -y emacs \
 
 # systemctl enable podman.socket
 
+cd /ctx
 make install
+cd /
