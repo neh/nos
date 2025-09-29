@@ -25,7 +25,9 @@ dnf5 install -y emacs \
      wlsunset \
      fuzzel \
      wob \
-     enchant2-devel
+     enchant2-devel \
+     pavucontrol
+
 # Use a COPR Example:
 #
 # dnf5 -y copr enable ublue-os/staging
