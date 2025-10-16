@@ -26,7 +26,8 @@ dnf5 install -y emacs \
      fuzzel \
      wob \
      enchant2-devel \
-     pavucontrol
+     pavucontrol \
+     kde-connect
 
 # Use a COPR Example:
 #
