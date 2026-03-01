@@ -27,7 +27,8 @@ dnf5 install -y emacs \
      wob \
      enchant2-devel \
      pavucontrol \
-     kde-connect
+     kde-connect \
+     automake autoconf libpng-devel poppler-devel poppler-glib-devel zlib-devel
 
 # Use a COPR Example:
 #
