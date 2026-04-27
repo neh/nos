@@ -29,7 +29,8 @@ dnf5 install -y emacs \
      pavucontrol \
      kde-connect \
      automake autoconf libpng-devel poppler-devel poppler-glib-devel zlib-devel \
-     dtach
+     dtach \
+     easyeffects
 
 # Use a COPR Example:
 #
